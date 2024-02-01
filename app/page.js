@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Herosection from "./Components/Home/Herosection";
+import PatnersSection from "./Components/Home/PatnersSection";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
         Home
       </h1>
       <Herosection />
+      <PatnersSection />
       </div>
   );
 }
