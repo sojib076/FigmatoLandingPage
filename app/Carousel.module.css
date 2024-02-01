@@ -27,7 +27,7 @@ background-color: #FF60E6;
 .prevButton,
 .nextButton {
   position: absolute;
-  top: 90%;
+  top: 95%;
   transform: translateY(-50%);
   padding: 10px;
   cursor: pointer;
@@ -35,8 +35,10 @@ background-color: #FF60E6;
 
 .prevButton {
  
+  margin: 5px;
 }
 
 .nextButton {
   right: 5px;
+  margin: 5px;
 }

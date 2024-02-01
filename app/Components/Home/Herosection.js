@@ -10,7 +10,7 @@ import fb from "../../../public/Images/fb (1) (1) 1.png"
 const Herosection = () => {
     
     return (
-        <div className=" relative overflow-hidden ">
+        <div className=" relative overflow-hidden  ">
             {/* left iamge for hero section */}
             <div className="lg:block ">
                 <div className=" absolute lg:left-[-15%]  lg:top-[-5%] w-[30%] top-[10%] left-[-15%] z-20 lg:w-[414px]">
