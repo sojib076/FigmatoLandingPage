@@ -1,10 +1,9 @@
 import React from 'react';
 import Image from 'next/image';
-import humanimg from "@/public/Images/image.png";
-import humanimg3 from "@/public/Images/Image (1).png";
-import humanbg3 from "@/public/Images/humanbg 3.png";
-import humanimg2 from "@/public/Images/Imagehuman2.png";
-import figmaimg from "@/public/Images/group 2.png";
+import humanimg from "../../../public/Images/Image.png"
+import humanimg3 from "../../../public/Images/huumanmiddle.png";
+import humanimg2 from "../../../public/Images/humanleft.png";
+import humanbg3 from "../../../public/Images/humanbg 3.png";
 
 const WorkSection = () => {
     return (
